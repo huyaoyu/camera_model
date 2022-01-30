@@ -1,0 +1,4 @@
+*.pyc
+*.png
+*.code-workspace
+.vscode/
